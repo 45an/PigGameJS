@@ -3,7 +3,8 @@
 ## Pig Game
 
 This is a simple game built with JavaScript, HTML, and CSS. The game is played by two players taking turns to roll a dice. The goal is to reach a score of 100 points before the other player.
-How to play
+
+### How to play
 
     Click the "New Game" button to start a new game. This will reset the scores and the active player.
 
