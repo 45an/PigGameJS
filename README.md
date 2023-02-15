@@ -10,7 +10,8 @@ How to play
     Each turn, a player rolls the dice by clicking the "Roll Dice" button. 
     The number on the dice will be added to the current score of the active player.
 
-    If a player rolls a 1, their turn is over, and their current score is reset to 0. The other player then takes their turn.
+    If a player rolls a 1, their turn is over, and their current score is reset to 0. 
+    The other player then takes their turn.
 
     If a player wants to keep their score and end their turn, they can click the "Hold" button. 
     Their current score will be added to their total score, and it will become the other player's turn.
