@@ -28,3 +28,7 @@ The game is built with JavaScript, and the code is divided into four main parts:
     Rolling Dice Functionality: This section contains the code for rolling the dice, updating the score, and switching players.
 
     Button Events: This section contains the event listeners for the buttons in the game.
+
+## Play The Game 
+
+ [Click here to PigGame](https://45an.github.io/PigGameJS/)
