@@ -32,4 +32,4 @@ The game is built with JavaScript, and the code is divided into four main parts:
 
 ## Play The Game 
 
- [Click here to PigGame](https://45an.github.io/PigGameJS/)
+ [Click here to the Pig Game](https://45an.github.io/PigGameJS/)
